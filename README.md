@@ -10,6 +10,8 @@ This page is collections of documentations which can be used for reference to en
 4. Infrastructure as Code
 5. More Topics....
   -  Sub-list
+6. CLIs
+  - Wrapper on AWS-CLI [bash-my-aws](https://github.com/bash-my-aws/bash-my-aws/)
   
  ---
   
